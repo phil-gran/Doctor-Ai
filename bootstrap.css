@@ -5,7 +5,8 @@ body::before {
 }
 
 #nav{
-    background-color: turquoise;
+    background-color: rgb(126,161,34);
+    
 }
 
 .link{
@@ -18,7 +19,7 @@ body::before {
 }
 
 .link:hover {
-    background-color: red;
+    background-color: yellow;
 }
 
 .script{
@@ -32,7 +33,7 @@ body::before {
 }
 
 .accordion-button{
-    background-color: rgb(128, 236, 226) !important;
+    background-color: rgb(126,161,34) !important;
     color: black !important;
 }
 
